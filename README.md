@@ -1,6 +1,7 @@
-👋 Hi, I’m Aditya Pandey 
-👀 I’m interested in learning programming languages and Explore Cybersecurity
-🌱 I’m currently studying at Lovely Professional University,Jalandhar punjab;
-🌱 I’m currently learning python
-🌱 I’m persuing B.Tech in computer science and engineering.
-📫 How to reach me https://www.linkedin.com/in/adityazpandey
+👋 Hi, I’m **Aditya Pandey**
+🎓 Pursuing **B.Tech in Computer Science and Engineering** at **Lovely Professional University**, Punjab
+💻 Passionate about **programming**, currently exploring **Python**, **C++**, and **Cybersecurity**
+📊 Skilled in tools like **Git**, **Excel**, **Tableau**, and **Power BI**
+📚 Hands-on with **DSA**, **OOP**, **OS**, and **Networking** through projects and coursework
+🚀 Actively solving problems on **LeetCode** & **GeeksforGeeks** (150+ problems solved, top 30% in LeetCode contests)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adityazspandey/)
